@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 👋 Hi, I’m @Shruti-Kirti1
+- 🌱 I’m currently learning FullStack Development
+- 💬 Ask me about Technologies, Travel and Sports
+- 📫 How to reach me: shrutikirti36@gmail.com 
 <!--
 **Shruti-Kirti1/Shruti-Kirti1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
