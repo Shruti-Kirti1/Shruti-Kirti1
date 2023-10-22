@@ -2,7 +2,10 @@
 - 👋 Hi, I’m @Shruti-Kirti1
 - 🌱 I’m currently learning FullStack Development
 - 💬 Ask me about Technologies, Travel and Sports
-- 📫 How to reach me: shrutikirti36@gmail.com 
+- 📫 How to reach me: shrutikirti36@gmail.com
+
+- ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+- 
 <!--
 **Shruti-Kirti1/Shruti-Kirti1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
